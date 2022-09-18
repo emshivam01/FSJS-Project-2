@@ -1,5 +1,5 @@
 
-# What's Trend in 2025
+# Restaurant Landing Page
 
 My name is Shivam Sharma, and this is the second project and it is landing page of restaurant which serves awesome food.
 
